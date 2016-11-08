@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 46px;
+        fill: #270101;
+        font-family: "Myriad Pro";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #ecedef;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #2d9c06;
+      }
+
+      .cls-4 {
+        fill: #66696e;
+      }
+
+      .cls-5 {
+        fill: #cf0209;
+      }
+    </style>
+  </defs>
+  <text id="Tutto_Tile" data-name="Tutto Tile" class="cls-1" x="62.266" y="64.762">Tutto Tile</text>
+  <path class="cls-2" d="M13.98,43.067l14.1-7.571,7.57,14.1-14.1,7.571Z"/>
+  <path id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-3" d="M29.837,34.55l14.1-7.57,7.571,14.1-14.1,7.57Z"/>
+  <path id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-4" d="M38.354,50.408l14.1-7.571,7.57,14.1L45.925,64.5Z"/>
+  <path id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-5" d="M22.5,58.925l14.1-7.57,7.571,14.1-14.1,7.571Z"/>
+</svg>
